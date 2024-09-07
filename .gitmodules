@@ -10,3 +10,9 @@
 [submodule "play-tic80"]
 	path = play-tic80
 	url = git@git.sr.ht:~jwatt/play-tic80
+[submodule "play-python"]
+	path = play-python
+	url = git@git.sr.ht:~jwatt/play-python
+[submodule "play-ocaml"]
+	path = play-ocaml
+	url = git@git.sr.ht:~jwatt/play-ocaml
