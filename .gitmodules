@@ -1,0 +1,12 @@
+[submodule "play-zig"]
+	path = play-zig
+	url = git@git.sr.ht:~jwatt/play-zig
+[submodule "play-fennel"]
+	path = play-fennel
+	url = git@git.sr.ht:~jwatt/play-fennel
+[submodule "play-quil"]
+	path = play-quil
+	url = git@git.sr.ht:~jwatt/play-quil
+[submodule "play-tic80"]
+	path = play-tic80
+	url = git@git.sr.ht:~jwatt/play-tic80
