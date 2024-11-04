@@ -16,3 +16,6 @@
 [submodule "play-ocaml"]
 	path = play-ocaml
 	url = git@git.sr.ht:~jwatt/play-ocaml
+[submodule "play-processing"]
+	path = play-processing
+	url = git@git.sr.ht:~jwatt/play-processing
